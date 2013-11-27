@@ -1,8 +1,0 @@
-
-
-- Install the pdc8544 pyhon module and dependencies ( https://github.com/rm-hull/pcd8544 )
-- Install the python module netaddr
-$ sudo easy_install netaddr
-
-
-
